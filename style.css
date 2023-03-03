@@ -32,8 +32,8 @@ body{
 }
 .container{
   width: 450px;
-  background: rgba(255, 255, 255, 0.05);
-  backdrop-filter: blur(30px);
+  background: rgba(255, 255, 255, 0.10);
+  backdrop-filter: blur(10px);
   border-radius: 25px;
   box-shadow: 0 8px 32px 0 rgba(37, 37, 41, 0.3);
   color: #fff;
